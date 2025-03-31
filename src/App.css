@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  background-color:rgb(192, 181, 204);
+}
+button{
+  margin: 4px;
+  background-color: bisque;
+cursor: pointer;
+border-radius: 5%;
+}
+
+button:hover{
+     background-color: rgb(35, 225, 162);
+     font-size: large;
+}
+input{
+  height: 20px;
+  width: 90px;
+}
